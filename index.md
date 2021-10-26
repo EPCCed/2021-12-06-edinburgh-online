@@ -75,13 +75,6 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
-{% comment %}
-<h2>Registration</h2>
-<p>Please use the <a href="https://www.archer2.ac.uk/training/register/?course=211206-data-carpentry">ARCHER2 course registration form</a> to sign up for the workshop.</p>
-
-<hr/>
-{% endcomment %}
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
